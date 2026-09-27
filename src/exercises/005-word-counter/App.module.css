@@ -1,0 +1,18 @@
+.page {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+    align-items: top;
+    justify-content: space-evenly;
+}
+
+
+h1 {
+    text-align: center;
+}
+
+
+textarea {
+    width: 40vw;
+    height: 80vh;
+}
